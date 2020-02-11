@@ -1,0 +1,6 @@
+User Experience Collection - collects usage data and sends it away. This needs to be disabled, which can be done during the set up wizard.
+https://www.nuance.com/content/dam/nuance/en_us/collateral/dragon/guide/gd-dragon-professional-workbook-en-us.pdf
+
+"we may capture your voice and the words that you speak into the product"
+"A small percentage of audio recordings received by Nuance, which may include personal data, are reviewed by human reviewers and transcribed into text for Nuance’s product maintenance and improvement efforts."
+https://www.nuance.com/en-gb/about-us/company-policies/privacy-policies.html#!
